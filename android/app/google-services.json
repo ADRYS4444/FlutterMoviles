@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908592040495",
+    "project_id": "app-movilesiii",
+    "storage_bucket": "app-movilesiii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908592040495:android:31ee10c7f795095c2dd4da",
+        "android_client_info": {
+          "package_name": "App.MovilesIII"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-m-2Wp_NsFobTrzhM6WOgvUW1-uxeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908592040495:android:3033317989ebb9742dd4da",
+        "android_client_info": {
+          "package_name": "com.example.app_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-m-2Wp_NsFobTrzhM6WOgvUW1-uxeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
